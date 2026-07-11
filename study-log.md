@@ -17,6 +17,7 @@ Weekly Study & Practical Log
 - Checked no devices have errors/warning icons
 - Reviewed driver listings and hardware categories
 Add daily study & practical log - 09 July 2026
+
 📅 11 July 2026
 - **Network tests**: Used ping (connectivity), tracert (route), nslookup (DNS resolution)
 - **Disk Management**: Viewed partitions, drive letters, file systems, and free space
