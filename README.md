@@ -18,3 +18,22 @@ Tracking my progress through CompTIA A+ certification, combining theory study wi
 - ⚙️ **OS & Security**: Windows settings, updates, firewall, user accounts
 - 📝 **Study Log**: Weekly updates, topics covered, and lessons learned
 - 📈 **Test Results**: Practice exam scores and review notes
+
+CompTIA A+ 220-1201 (Core 1) Practical Portfolio
+This repo documents hands‑on practice aligned with the **CompTIA A+ 220‑1201** exam objectives.
+
+---
+
+### 📚 Topics Covered
+- System configuration & management
+- User accounts & permissions
+- Networking tools & troubleshooting
+- System monitoring & maintenance
+- Virtualisation & WSL
+- Recovery & repair utilities
+- Security settings
+
+---
+
+### 📖 Progress Log
+Detailed daily work: **[study-log.md](./study-log.md)**
