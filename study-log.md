@@ -37,3 +37,13 @@ Add daily study & practical log - 09 July 2026
 - **System Restore**: Opened `rstrui.exe` recovery tool. Noted system protection is disabled; explained purpose: rolls back system files/settings to fix issues without deleting personal data.
 - **Registry Editor**: Launched `regedit` to safely view Windows configuration database. Recognised main hives (`HKLM`, `HKCU`, etc.) and confirmed no modifications were made.
 - **Resource Monitor**: Opened advanced system monitor to view real‑time CPU, memory, disk, and network usage for deep troubleshooting.
+
+  📅 13 July 2026 — Full Session
+- **Virtualisation**: Enabled Virtual Machine Platform and Windows Subsystem for Linux (WSL); set WSL 2 as default. Understood virtualisation concepts for running multiple OS environments.
+- **System Restore**: Opened `rstrui.exe` recovery tool; noted system protection was off, explained its purpose for rolling back system changes.
+- **Registry Editor**: Safely viewed `regedit` and its main hives (`HKLM`, `HKCU`, etc.) — no edits made.
+- **Resource Monitor**: Used to check real‑time CPU, memory, disk, and network activity.
+- **CHKDSK**: Ran `chkdsk C:` — learned "Access denied" is normal for active system drive; scan scheduled for next boot.
+- **Diskpart**: Command‑line tool to list disks, volumes, partitions, and drive letters.
+- **SFC /scannow**: Run as Administrator; scan completed successfully — no system file corruption found.
+- **IP Reset**: Used `ipconfig /release`, `/renew`, `/flushdns` to refresh network configuration.
