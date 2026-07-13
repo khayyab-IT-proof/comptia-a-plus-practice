@@ -47,3 +47,32 @@ Add daily study & practical log - 09 July 2026
 - **Diskpart**: Command‑line tool to list disks, volumes, partitions, and drive letters.
 - **SFC /scannow**: Run as Administrator; scan completed successfully — no system file corruption found.
 - **IP Reset**: Used `ipconfig /release`, `/renew`, `/flushdns` to refresh network configuration.
+
+13 July 2026 
+#### 📂 File Systems & Permissions
+- **Drive Properties**: Verified system drive uses **NTFS** — the standard Windows file system, supporting security permissions, BitLocker encryption, large file sizes (>4GB), and disk quotas.
+  - **FAT32**: Older format, max 4GB file size, no permissions or encryption
+  - **exFAT**: Cross‑platform, no security features, best for external drives
+- **Folder Security**: Created test folder `CompTIA‑Test`; viewed access rights via the **Security tab** — confirmed permission levels: Read, Read & Execute, Write, Modify, Full Control.
+
+#### 🔋 Power Management & Encryption
+- **Power Plans**: Opened `powercfg.cpl`; viewed available modes:
+  - **Balanced**: Default — balances speed and power use
+  - **Ultimate Performance**: Maximizes speed for high‑end systems
+  - **Power Saver**: Reduces performance to extend battery life
+- **BitLocker**: Checked full‑disk encryption status with `manage‑bde C: -status`; purpose: protects data if the drive is removed or lost.
+
+#### ⚙️ System Control Commands
+- **Shutdown / Restart**: Documented command‑line options for system control:
+  - `shutdown /r /t 0` → Immediate restart
+  - `shutdown /s /t 60` → Shutdown after 60 seconds
+  - `shutdown /a` → Cancel a pending shutdown/restart
+  *No execution performed to avoid interrupting work*
+
+#### ☁️ Cloud & Mobile Concepts
+- **Cloud Service Models**:
+  - **IaaS**: Infrastructure as a Service (e.g. virtual servers, storage)
+  - **PaaS**: Platform as a Service (e.g. development/hosting environments)
+  - **SaaS**: Software as a Service (e.g. web apps, email, online tools)
+  - Deployment types: Public, Private, Hybrid
+- **Mobile Devices**: OS types (Android, iOS), data synchronization, security features (screen lock, remote wipe, MDM, passcodes)
