@@ -26,3 +26,8 @@ Add daily study & practical log - 09 July 2026
 - **Windows Security**: Reviewed firewall, real-time protection, and update settings
 - **Event Viewer**: Checked system logs to identify errors/warnings (core troubleshooting skill)
 - **Task Manager**: Monitored resource usage, startup items, and running services
+
+13 July 2026 — Extra Tasks
+- **User Accounts**: Reviewed admin vs standard privileges, UAC and access control basics
+- **MSConfig**: Checked boot configuration, services, and startup control
+- **Netstat**: Viewed active network connections and listening ports — core security/troubleshooting
