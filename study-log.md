@@ -31,3 +31,9 @@ Add daily study & practical log - 09 July 2026
 - **User Accounts**: Reviewed admin vs standard privileges, UAC and access control basics
 - **MSConfig**: Checked boot configuration, services, and startup control
 - **Netstat**: Viewed active network connections and listening ports — core security/troubleshooting
+
+  13 July 2026 — Virtualisation & Recovery Tools
+- **Virtualisation / WSL**: Enabled Virtual Machine Platform and Windows Subsystem for Linux (WSL) in Windows Features. Set WSL 2 as default version. Demonstrated understanding of virtualisation concepts, a key CompTIA A+ Core 1 objective.
+- **System Restore**: Opened `rstrui.exe` recovery tool. Noted system protection is disabled; explained purpose: rolls back system files/settings to fix issues without deleting personal data.
+- **Registry Editor**: Launched `regedit` to safely view Windows configuration database. Recognised main hives (`HKLM`, `HKCU`, etc.) and confirmed no modifications were made.
+- **Resource Monitor**: Opened advanced system monitor to view real‑time CPU, memory, disk, and network usage for deep troubleshooting.
