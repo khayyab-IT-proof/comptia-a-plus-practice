@@ -21,3 +21,8 @@ Add daily study & practical log - 09 July 2026
 📅 11 July 2026
 - **Network tests**: Used ping (connectivity), tracert (route), nslookup (DNS resolution)
 - **Disk Management**: Viewed partitions, drive letters, file systems, and free space
+
+📅 13 July 2026
+- **Windows Security**: Reviewed firewall, real-time protection, and update settings
+- **Event Viewer**: Checked system logs to identify errors/warnings (core troubleshooting skill)
+- **Task Manager**: Monitored resource usage, startup items, and running services
